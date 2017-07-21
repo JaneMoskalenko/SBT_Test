@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SBT_Test Characters</string>
+    <string name="character_name">Имя персонажа</string>
+    <string name="character_gender">Пол</string>
+    <string name="character_culture">Происхождение</string>
+    <string name="character_born">Родился</string>
+    <string name="character_died">Погиб</string>
+</resources>
